@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="smartoxy logo banner.svg"
+   sodipodi:docname="logo_header.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5554293"
-     inkscape:cx="674.41188"
+     inkscape:cx="674.73334"
      inkscape:cy="446.82198"
      inkscape:window-width="3840"
      inkscape:window-height="2050"
@@ -40,7 +40,7 @@
      id="layer1">
     <g
        id="g2300"
-       transform="translate(-180.47953,6.634021)">
+       transform="matrix(1.7025722,0,0,1.7025722,-411.61141,-2.1567291)">
       <path
          id="path1182-5"
          style="color:#000000;fill:#1a83d9;fill-rule:evenodd;stroke:none;stroke-width:8.99999;stroke-linecap:square;-inkscape-stroke:none;paint-order:stroke markers fill"
@@ -50,16 +50,5 @@
          style="color:#000000;fill:#00c3c7;fill-rule:evenodd;stroke:none;stroke-width:8.99999;stroke-linecap:square;-inkscape-stroke:none;paint-order:stroke markers fill"
          d="m 305.45133,3.8914681 c -5.29692,-7.94e-4 -10.59398,1.997609 -14.59187,5.995498 L 252.21531,48.531123 c -7.99578,7.99578 -7.99319,21.18797 0.003,29.18375 l 38.64467,38.644657 c 7.99578,7.99579 21.18487,7.99578 29.18064,0 l 5.93917,-5.93917 -10.16526,-10.16527 -5.93918,5.93917 c -2.53985,2.53986 -6.31025,2.53985 -8.8501,0 L 262.38316,67.549593 c -2.53985,-2.53984 -2.54296,-6.31334 -0.003,-8.8532 l 38.64468,-38.64467 c 2.53985,-2.53986 6.31335,-2.53675 8.8532,0.003 l 38.64467,38.64467 c 2.53986,2.53986 2.53985,6.31026 0,8.85011 l -16.17369,16.17369 10.16527,10.16527 16.17369,-16.17369 c 7.99577,-7.99578 7.99578,-21.18487 0,-29.18065 L 320.04321,9.8895511 c -3.99789,-3.997889 -9.29495,-5.997332 -14.59188,-5.998083 z" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:66.3356px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.690996"
-       x="3.6565049"
-       y="194.08563"
-       id="text3961-0"><tspan
-         sodipodi:role="line"
-         id="tspan3959-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.3356px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.690996;fill:#ffffff"
-         x="3.6565049"
-         y="194.08563">SmartOxy</tspan></text>
   </g>
 </svg>
